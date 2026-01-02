@@ -1,6 +1,5 @@
 const superman = {
   name: 'clark kent',
   age: '25',
-  friend: 'batman ver3'
-
+  friend: 'bruce wayne'
 };
